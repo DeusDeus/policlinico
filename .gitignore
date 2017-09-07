@@ -3,3 +3,6 @@
 ################################################################################
 
 /Policlinico/.vs
+/Policlinico/packages
+/Policlinico/**/bin/*
+/Policlinico/**/obj/*
