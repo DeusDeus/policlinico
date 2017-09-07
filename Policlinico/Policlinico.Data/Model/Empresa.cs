@@ -6,7 +6,7 @@ namespace Policlinico.Data.Model
 {
     public class Empresa : EntidadBase
     {
-    {
+    
         public Empresa()
         {
             Actividades= new HashSet<Actividad>();

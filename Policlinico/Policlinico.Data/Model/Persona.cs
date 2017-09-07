@@ -12,8 +12,10 @@ namespace Policlinico.Data.Model
         [StringLength(100)]
         public string Apellido { get; set; }
         [NotMapped]
-        public string NombreCompleto { get => $"{Apellido}, {Nombre}"; }
+      
+
         [StringLength(45)]
+       
         public string DocIdentitdad { get; set; }
         [StringLength(45)]
         public string TipoDocIdentidad { get; set; }

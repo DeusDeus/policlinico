@@ -13,3 +13,16 @@ D:\Code\samples\Policlinico\Policlinico\Policlinico.Data\obj\Debug\Policlinico.D
 D:\Code\samples\Policlinico\Policlinico\Policlinico.Data\obj\Debug\Policlinico.Data.csproj.CoreCompileInputs.cache
 D:\Code\samples\Policlinico\Policlinico\Policlinico.Data\obj\Debug\Policlinico.Data.dll
 D:\Code\samples\Policlinico\Policlinico\Policlinico.Data\obj\Debug\Policlinico.Data.pdb
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\policlinico  con migracion --con roles\policlinico\Policlinico\Policlinico.Data\obj\Debug\Policlinico.Data.csprojResolveAssemblyReference.cache
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\policlinico  con migracion --con roles\policlinico\Policlinico\Policlinico.Data\obj\Debug\Policlinico.Data.dll
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\policlinico  con migracion --con roles\policlinico\Policlinico\Policlinico.Data\obj\Debug\Policlinico.Data.pdb
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\policlinico  con migracion --con roles\policlinico\Policlinico\Policlinico.Data\bin\Debug\Policlinico.Data.dll
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\policlinico  con migracion --con roles\policlinico\Policlinico\Policlinico.Data\bin\Debug\Policlinico.Data.pdb
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\policlinico  con migracion --con roles\policlinico\Policlinico\Policlinico.Data\bin\Debug\EntityFramework.dll
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\policlinico  con migracion --con roles\policlinico\Policlinico\Policlinico.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\policlinico  con migracion --con roles\policlinico\Policlinico\Policlinico.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\policlinico  con migracion --con roles\policlinico\Policlinico\Policlinico.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\policlinico  con migracion --con roles\policlinico\Policlinico\Policlinico.Data\bin\Debug\EntityFramework.xml
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\policlinico  con migracion --con roles\policlinico\Policlinico\Policlinico.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\policlinico  con migracion --con roles\policlinico\Policlinico\Policlinico.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Deus\Documents\Visual Studio 2015\Projects\policlinico  con migracion --con roles\policlinico\Policlinico\Policlinico.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
