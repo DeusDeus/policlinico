@@ -204,10 +204,6 @@
     <Content Include="Scripts\jquery-1.10.2.min.map" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Policlinico.Data\Policlinico.Data.csproj">
-      <Project>{83d0a04a-c038-450a-988b-bf8db33b4764}</Project>
-      <Name>Policlinico.Data</Name>
-    </ProjectReference>
     <ProjectReference Include="..\Policlinico.Services\Policlinico.Services.csproj">
       <Project>{4914ca28-e7b2-4e21-a8a8-d547cb01a285}</Project>
       <Name>Policlinico.Services</Name>

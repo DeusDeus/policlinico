@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Policlinico.Data", "Policlinico.Data\Policlinico.Data.csproj", "{83D0A04A-C038-450A-988B-BF8DB33B4764}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Policlinico.Services", "Policlinico.Services\Policlinico.Services.csproj", "{4914CA28-E7B2-4E21-A8A8-D547CB01A285}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Policlinico.Web", "Policlinico.Web\Policlinico.Web.csproj", "{23006311-954B-4D57-A641-674D419A1841}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Policlinico.Tests", "Policlinico.Tests\Policlinico.Tests.csproj", "{B4E54F1D-5B78-410E-8DA8-94BA19012856}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Policlinico.Data", "..\..\..\..\..\..\..\Desktop\final\policlinico-master - copia\Policlinico\Policlinico.Data\Policlinico.Data.csproj", "{83D0A04A-C038-450A-988B-BF8DB33B4764}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,14 +19,6 @@ Global
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{83D0A04A-C038-450A-988B-BF8DB33B4764}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{83D0A04A-C038-450A-988B-BF8DB33B4764}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{83D0A04A-C038-450A-988B-BF8DB33B4764}.Debug|x86.ActiveCfg = Debug|x86
-		{83D0A04A-C038-450A-988B-BF8DB33B4764}.Debug|x86.Build.0 = Debug|x86
-		{83D0A04A-C038-450A-988B-BF8DB33B4764}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{83D0A04A-C038-450A-988B-BF8DB33B4764}.Release|Any CPU.Build.0 = Release|Any CPU
-		{83D0A04A-C038-450A-988B-BF8DB33B4764}.Release|x86.ActiveCfg = Release|x86
-		{83D0A04A-C038-450A-988B-BF8DB33B4764}.Release|x86.Build.0 = Release|x86
 		{4914CA28-E7B2-4E21-A8A8-D547CB01A285}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{4914CA28-E7B2-4E21-A8A8-D547CB01A285}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4914CA28-E7B2-4E21-A8A8-D547CB01A285}.Debug|x86.ActiveCfg = Debug|x86
@@ -51,6 +43,14 @@ Global
 		{B4E54F1D-5B78-410E-8DA8-94BA19012856}.Release|Any CPU.Build.0 = Release|Any CPU
 		{B4E54F1D-5B78-410E-8DA8-94BA19012856}.Release|x86.ActiveCfg = Release|x86
 		{B4E54F1D-5B78-410E-8DA8-94BA19012856}.Release|x86.Build.0 = Release|x86
+		{83D0A04A-C038-450A-988B-BF8DB33B4764}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83D0A04A-C038-450A-988B-BF8DB33B4764}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83D0A04A-C038-450A-988B-BF8DB33B4764}.Debug|x86.ActiveCfg = Debug|x86
+		{83D0A04A-C038-450A-988B-BF8DB33B4764}.Debug|x86.Build.0 = Debug|x86
+		{83D0A04A-C038-450A-988B-BF8DB33B4764}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83D0A04A-C038-450A-988B-BF8DB33B4764}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83D0A04A-C038-450A-988B-BF8DB33B4764}.Release|x86.ActiveCfg = Release|x86
+		{83D0A04A-C038-450A-988B-BF8DB33B4764}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
